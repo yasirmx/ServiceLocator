@@ -1,0 +1,6 @@
+C:\Users\mauleear\source\repos\Service.Console\Patterns.ServiceLocator\bin\Debug\Patterns.ServiceLocator.dll
+C:\Users\mauleear\source\repos\Service.Console\Patterns.ServiceLocator\bin\Debug\Patterns.ServiceLocator.pdb
+C:\Users\mauleear\source\repos\Service.Console\Patterns.ServiceLocator\obj\Debug\Patterns.ServiceLocator.csproj.CoreCompileInputs.cache
+C:\Users\mauleear\source\repos\Service.Console\Patterns.ServiceLocator\obj\Debug\Patterns.ServiceLocator.dll
+C:\Users\mauleear\source\repos\Service.Console\Patterns.ServiceLocator\obj\Debug\Patterns.ServiceLocator.pdb
+C:\Users\mauleear\source\repos\Service.Console\Patterns.ServiceLocator\obj\Debug\Patterns.ServiceLocator.csprojResolveAssemblyReference.cache
